@@ -1,0 +1,2 @@
+Id,Name,ClientLogo,ClientEmail,HasAppCreatePrivilege,HasTemplateCreatePrivilige,Website,PrimaryContactPerson,PrimaryContactEmail,PrimaryContactNumber,AddressLine1,AddressLine2,City,State,Zip,Country
+4179728400000021,Cloudapper,https://s3.amazonaws.com/cloud-apper-repository/4179728400000021/default/2d4be6a1-1e36-454d-9fa1-5bf6286d992c.jpeg?OriginalFileName=4179728400000021_ClientLogo.jpeg,template@cloudapper.com,True,True,,,,,,,,,,
